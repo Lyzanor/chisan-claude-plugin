@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "chisan": {
+      "type": "http",
+      "url": "https://chisan.app/mcp"
+    }
+  }
+}

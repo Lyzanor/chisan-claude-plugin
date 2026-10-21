@@ -1,0 +1,21 @@
+{
+  "name": "chisan",
+  "version": "0.1.0",
+  "description": "Discover local food and drink producers, their products and food fairs in Chisan's reviewed catalog, with maps and direct contact links. Spain today; more countries as their catalogs are published.",
+  "author": {
+    "name": "Enrique Pérez Fernández",
+    "url": "https://chisan.app"
+  },
+  "homepage": "https://chisan.app/about#agents",
+  "repository": "https://github.com/Lyzanor/chisan-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "local-food",
+    "producers",
+    "food-fairs",
+    "food-travel",
+    "sourcing",
+    "km0",
+    "maps"
+  ]
+}
